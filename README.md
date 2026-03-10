@@ -2,6 +2,9 @@
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
+# DATE: 10.03.2026
+# REG NO: 25017270
+
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
@@ -34,5 +37,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+[EX 05.docx](https://github.com/user-attachments/files/25877406/EX.05.docx)
 
 # RESULT: The prompt for the above said problem executed successfully
